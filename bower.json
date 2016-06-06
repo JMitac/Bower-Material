@@ -1,0 +1,28 @@
+{
+  "name": "geekapp",
+  "description": "Primer proyecto con Node",
+  "main": "index.js",
+  "author": [
+    "@JMitac"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "express",
+    "bower",
+    "handlebarJS",
+    "and",
+    "localstorage"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "Materialize": "materialize#^0.97.6"
+  }
+}
